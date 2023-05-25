@@ -1,0 +1,16 @@
+.operation {
+    padding-left: 1rem;
+}
+
+.constant {
+    outline: none;
+    border: none;
+    color: white;
+    padding: 0.1rem 0.5rem;
+    margin-left: 0.25rem;
+}
+
+.reset {
+    padding: 0 0.4rem;
+    margin-left: 0.25rem;
+}
